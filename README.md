@@ -5,7 +5,7 @@ This guide will walk you through deploying a Play application on [Deis Workflow]
 ## Usage
 
 ```console
-$ git clone https://github.com/deis/example-play.git
+$ git clone https://github.com/deisthree/example-play.git
 $ cd example-play
 $ deis create
 Creating Application... done, created rental-cutpurse
@@ -69,8 +69,8 @@ Powered by Deis
 
 ## Additional Resources
 
-* [GitHub Project](https://github.com/deis/workflow)
+* [GitHub Project](https://github.com/deisthree/workflow)
 * [Documentation](https://deis.com/docs/workflow/)
 * [Blog](https://deis.com/blog/)
 
-[Deis Workflow]: https://github.com/deis/workflow#readme
+[Deis Workflow]: https://github.com/deisthree/workflow#readme
